@@ -1,0 +1,11 @@
+﻿  Laborator5.cpp
+  Main.cpp
+c:\users\andrei\desktop\framework-egc-master\source\laboratoare\laborator5\laborator5.h(156): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file ..\Source\Laboratoare\Laborator5\Laborator5.cpp)
+c:\users\andrei\desktop\framework-egc-master\source\laboratoare\laborator5\laborator5.h(156): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file ..\Source\Main.cpp)
+c:\users\andrei\desktop\framework-egc-master\source\laboratoare\laborator5\laborator5.cpp(754): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Framework_EGC.vcxproj -> C:\Users\andrei\Desktop\Framework-EGC-master\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file C:\Users\andrei\Desktop\Framework-EGC-master\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
